@@ -1,1 +1,0 @@
-# WinAPI_LTH_Release
